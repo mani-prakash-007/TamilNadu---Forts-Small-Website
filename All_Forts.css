@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&family=Cinzel:wght@500&family=Kaushan+Script&family=Oswald:wght@700&family=Permanent+Marker&family=Space+Mono&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&family=Cinzel:wght@500&family=Kaushan+Script&family=Lora:ital,wght@1,600&family=Oswald:wght@700&family=Permanent+Marker&family=Space+Mono&display=swap');
 
 *{
     box-sizing: border-box;
@@ -7,7 +6,6 @@
 body{
     font-size: 1.1rem;
     background-color: aquamarine;
-    position: ;
 }
 h1 {
     font-family: 'Oswald', sans-serif;
